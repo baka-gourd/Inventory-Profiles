@@ -7,7 +7,7 @@
 
 **CurseForge**: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
 
-# Description
+# Descriptions
 
 Continues the development of the original Inventory Profiles mod
 
